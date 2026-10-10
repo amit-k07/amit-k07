@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
-<h3 align="center">Frontend Developer | MCA Student</h3>
+<h3 align="center">Frontend Developer | MCA Graduate</h3>
 
 ---
 
 🌟 About Me  
-- 🎓 MCA Student  
+- 🎓 MCA Graduate  
 - 💻 Frontend Developer (HTML, CSS, JavaScript)  
 - 📸 Love Nature Photography  
 - 🎮 Gamer  
@@ -22,16 +22,6 @@
 ⚙️ Tools  
 - Git & GitHub  
 - VS Code  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amit-k07&show_icons=true&theme=tokyonight" />
-</p>
-
----
 
 📫 Connect with Me  
 - GitHub: https://github.com/amit-k07  
